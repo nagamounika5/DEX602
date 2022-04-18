@@ -6,6 +6,7 @@
 			"enableS1DesktopEnabled": true
         },
         "mobileSettings": {
+            "enableS1EncryptedStoragePred2":false
         },
         "languageSettings": {
             "enableTranslationWorkbench": true
